@@ -1,4 +1,4 @@
-# Circuit-Solver-written-in-C-
+# Circuit-Solver-written-in-C++
 this code takes a netlist and get the voltages at all nodes and gets the power dissipated at all elements (Kinda like SPICE simulator)
 Notes on writing the netlist file:
 	For any source or element, it must begin with capital letter.  i.e: R1,I1,Vs,V2,…..
